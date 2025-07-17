@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net project \u002B react\\Property Buy_Sell_Rent\\PropertiesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC65E246-1355-45D5-8B63-5CADBD09DDD5}|PropertiesApi.csproj|e:\\.net project \u002B react\\property buy_sell_rent\\propertiesapi\\controllers\\propertiesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC65E246-1355-45D5-8B63-5CADBD09DDD5}|PropertiesApi.csproj|solutionrelative:controllers\\propertiesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC65E246-1355-45D5-8B63-5CADBD09DDD5}|PropertiesApi.csproj|e:\\.net project \u002B react\\property buy_sell_rent\\propertiesapi\\models\\propertymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC65E246-1355-45D5-8B63-5CADBD09DDD5}|PropertiesApi.csproj|solutionrelative:models\\propertymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC65E246-1355-45D5-8B63-5CADBD09DDD5}|PropertiesApi.csproj|e:\\.net project \u002B react\\property buy_sell_rent\\propertiesapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC65E246-1355-45D5-8B63-5CADBD09DDD5}|PropertiesApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC65E246-1355-45D5-8B63-5CADBD09DDD5}|PropertiesApi.csproj|e:\\.net project \u002B react\\property buy_sell_rent\\propertiesapi\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC65E246-1355-45D5-8B63-5CADBD09DDD5}|PropertiesApi.csproj|solutionrelative:services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC65E246-1355-45D5-8B63-5CADBD09DDD5}|PropertiesApi.csproj|e:\\.net project \u002B react\\property buy_sell_rent\\propertiesapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC65E246-1355-45D5-8B63-5CADBD09DDD5}|PropertiesApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC65E246-1355-45D5-8B63-5CADBD09DDD5}|PropertiesApi.csproj|e:\\.net project \u002B react\\property buy_sell_rent\\propertiesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC65E246-1355-45D5-8B63-5CADBD09DDD5}|PropertiesApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertyModel.cs",
+              "DocumentMoniker": "E:\\.net project \u002B react\\Property Buy_Sell_Rent\\PropertiesApi\\Models\\PropertyModel.cs",
+              "RelativeDocumentMoniker": "Models\\PropertyModel.cs",
+              "ToolTip": "E:\\.net project \u002B react\\Property Buy_Sell_Rent\\PropertiesApi\\Models\\PropertyModel.cs",
+              "RelativeToolTip": "Models\\PropertyModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T03:35:29.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "E:\\.net project \u002B react\\Property Buy_Sell_Rent\\PropertiesApi\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtTokenService.cs",
+              "ToolTip": "E:\\.net project \u002B react\\Property Buy_Sell_Rent\\PropertiesApi\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:33:21.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\.net project \u002B react\\Property Buy_Sell_Rent\\PropertiesApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\.net project \u002B react\\Property Buy_Sell_Rent\\PropertiesApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwFoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:30:11.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\.net project \u002B react\\Property Buy_Sell_Rent\\PropertiesApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "E:\\.net project \u002B react\\Property Buy_Sell_Rent\\PropertiesApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T03:11:47.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.net project \u002B react\\Property Buy_Sell_Rent\\PropertiesApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\.net project \u002B react\\Property Buy_Sell_Rent\\PropertiesApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:58:14.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertiesApiController.cs",
+              "DocumentMoniker": "E:\\.net project \u002B react\\Property Buy_Sell_Rent\\PropertiesApi\\Controllers\\PropertiesApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PropertiesApiController.cs",
+              "ToolTip": "E:\\.net project \u002B react\\Property Buy_Sell_Rent\\PropertiesApi\\Controllers\\PropertiesApiController.cs",
+              "RelativeToolTip": "Controllers\\PropertiesApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:51:33.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
