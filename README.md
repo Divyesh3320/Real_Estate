@@ -44,7 +44,7 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
 | **Frontend**  | React.js, Bootstrap, HTML, CSS    |
 | **Backend**   | .NET Core Web API (.NET 6/7)       |
 | **Database**  | SQL Server                        |
-| **Cloud**     | Google Cloud Storage (for images) |
+| **Cloud**     | Cloudinary (for images) |
 | **Auth**      | JWT-based secure login            |
 
 
