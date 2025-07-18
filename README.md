@@ -52,7 +52,7 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
   - Images, prices, and key specifications displayed
   - Mobile-friendly responsive layout
   
- <p align="center">
+<p align="center">
   <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752830391/Screenshot_2025-07-18_144723_qnru6d.png" 
        alt="Admin Dashboard" 
        width="48%" 
@@ -63,7 +63,7 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
        style="height: auto;" />
 </p>
     
- <p align="center">
+<p align="center">
   <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752830391/Screenshot_2025-07-18_144841_rlbqho.png" 
        alt="Admin Dashboard" 
        width="48%" 
@@ -79,7 +79,7 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
   - View all registered users
   - Access and manage all posted properties
   - Full CRUD operations on any property listing
-  - 
+    
 <p align="center">
   <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752831664/Screenshot_2025-07-18_150746_j0uagi.png" 
        alt="Admin Dashboard" 
@@ -91,7 +91,7 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
        style="height: auto;" />
 </p>
     
- <p align="center">
+<p align="center">
   <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752831665/Screenshot_2025-07-18_150939_rrpt2y.png" 
        alt="Admin Dashboard" 
        width="48%" 
@@ -100,7 +100,8 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
        alt="Admin Dashboard" 
        width="48%" 
        style="height: auto;" />
-</p> 
+</p>
+
 - **Authentication System**:
   - Secure login system with **email/password**
   - Role-based access control for Admin and User
