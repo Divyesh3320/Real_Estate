@@ -13,6 +13,17 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
   - Filter by **City** (across Gujarat)
   - Filter by **Property Type/Subtype**
   - Filter by **Price Range**
+
+ <p align="center">
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752829394/Screenshot_2025-07-18_143155_ayypl4.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="margin-right: 2%; height: auto;" />
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752829394/Screenshot_2025-07-18_143216_m2rs9h.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="height: auto;" />
+</p>
     
 <table>
   <tr>
