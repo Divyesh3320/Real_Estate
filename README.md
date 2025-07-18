@@ -16,11 +16,29 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
     
 <table>
   <tr>
-    <td><img src="https://res.cloudinary.com/dfojntght/image/upload/v1752752352/Screenshot_2025-07-17_170822_horwug.png" alt="Admin Dashboard" width="300" height="200" /></td>
-    <td><img src="https://res.cloudinary.com/dfojntght/image/upload/v1752752352/Screenshot_2025-07-17_170822_horwug.png" alt="Admin Dashboard" width="300" height="200" /></td>
-    <td><img src="https://res.cloudinary.com/dfojntght/image/upload/v1752752352/Screenshot_2025-07-17_170822_horwug.png" alt="Admin Dashboard" width="300" height="200" /></td>
+    <td>
+      <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752752352/Screenshot_2025-07-17_170822_horwug.png" 
+           alt="Admin Dashboard" 
+           width="320" 
+           height="220" 
+           style="margin-right: 10px;" />
+    </td>
+    <td>
+      <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752752352/Screenshot_2025-07-17_170822_horwug.png" 
+           alt="Admin Dashboard" 
+           width="320" 
+           height="220" 
+           style="margin-right: 10px;" />
+    </td>
+    <td>
+      <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752752352/Screenshot_2025-07-17_170822_horwug.png" 
+           alt="Admin Dashboard" 
+           width="320" 
+           height="220" />
+    </td>
   </tr>
 </table>
+
 
 - **Dynamic Property Posting**:
   - Add detailed property info including:
