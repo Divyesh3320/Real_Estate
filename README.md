@@ -50,6 +50,28 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
   - Cleanly styled cards
   - Images, prices, and key specifications displayed
   - Mobile-friendly responsive layout
+  
+ <p align="center">
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752830391/Screenshot_2025-07-18_144723_qnru6d.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="margin-right: 2%; height: auto;" />
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752830391/Screenshot_2025-07-18_144745_gox5eu.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="height: auto;" />
+</p>
+    
+ <p align="center">
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752830391/Screenshot_2025-07-18_144841_rlbqho.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="margin-right: 2%; height: auto;" />
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752830391/Screenshot_2025-07-18_144906_graopz.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="height: auto;" />
+</p> 
 
 ### 🛠️ Admin Side
 - **Admin Dashboard**:
