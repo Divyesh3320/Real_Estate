@@ -19,14 +19,14 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
     <td>
       <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752829394/Screenshot_2025-07-18_143155_ayypl4.png" 
            alt="Admin Dashboard" 
-           width="400" 
+           width="50%" 
            height="400" 
            style="margin-right: 00px;" />
     </td>
     <td>
       <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752829394/Screenshot_2025-07-18_143216_m2rs9h.png" 
            alt="Admin Dashboard" 
-           width="400" 
+           width="50%" 
            height="400" 
            style="margin-right: 00px;" />
     </td>
