@@ -46,6 +46,28 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
     - Features
     - Contact Details
     - Property Images (stored in **Cloudinary**)
+  
+ <p align="center">
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752833608/Screenshot_2025-07-18_153934_jytxpa.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="margin-right: 2%; height: auto;" />
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752833608/Screenshot_2025-07-18_154001_pwtgv5.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="height: auto;" />
+</p>
+    
+ <p align="center">
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752833608/Screenshot_2025-07-18_154037_hl42zi.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="margin-right: 2%; height: auto;" />
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752833610/Screenshot_2025-07-18_154308_zfrker.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="height: auto;" />
+</p>
       
 - **Property Listing UI**:
   - Cleanly styled cards
