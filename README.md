@@ -46,28 +46,7 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
     - Features
     - Contact Details
     - Property Images (stored in **Cloudinary**)
-
- <p align="center">
-  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752831664/Screenshot_2025-07-18_150746_j0uagi.png" 
-       alt="Admin Dashboard" 
-       width="48%" 
-       style="margin-right: 2%; height: auto;" />
-  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752831665/Screenshot_2025-07-18_150854_ksut96.png" 
-       alt="Admin Dashboard" 
-       width="48%" 
-       style="height: auto;" />
-</p>
-    
- <p align="center">
-  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752831665/Screenshot_2025-07-18_150939_rrpt2y.png" 
-       alt="Admin Dashboard" 
-       width="48%" 
-       style="margin-right: 2%; height: auto;" />
-  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752831665/Screenshot_2025-07-18_151015_p05oho.png" 
-       alt="Admin Dashboard" 
-       width="48%" 
-       style="height: auto;" />
-</p> 
+      
 - **Property Listing UI**:
   - Cleanly styled cards
   - Images, prices, and key specifications displayed
@@ -100,6 +79,28 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
   - View all registered users
   - Access and manage all posted properties
   - Full CRUD operations on any property listing
+  - 
+<p align="center">
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752831664/Screenshot_2025-07-18_150746_j0uagi.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="margin-right: 2%; height: auto;" />
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752831665/Screenshot_2025-07-18_150854_ksut96.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="height: auto;" />
+</p>
+    
+ <p align="center">
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752831665/Screenshot_2025-07-18_150939_rrpt2y.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="margin-right: 2%; height: auto;" />
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752831665/Screenshot_2025-07-18_151015_p05oho.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="height: auto;" />
+</p> 
 - **Authentication System**:
   - Secure login system with **email/password**
   - Role-based access control for Admin and User
