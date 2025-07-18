@@ -25,25 +25,17 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
        style="height: auto;" />
 </p>
     
-<table>
-  <tr>
-    <td>
-      <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752829394/Screenshot_2025-07-18_143155_ayypl4.png" 
-           alt="Admin Dashboard" 
-           width="50%" 
-           height="400" 
-           style="margin-right: 00px;" />
-    </td>
-    <td>
-      <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752829394/Screenshot_2025-07-18_143216_m2rs9h.png" 
-           alt="Admin Dashboard" 
-           width="50%" 
-           height="400" 
-           style="margin-right: 00px;" />
-    </td>
-  
-  </tr>
-</table>
+ <p align="center">
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752829403/Screenshot_2025-07-18_143240_epl2ti.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="margin-right: 2%; height: auto;" />
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752829769/Screenshot_2025-07-18_143913_qoenlc.png" 
+       alt="Admin Dashboard" 
+       width="48%" 
+       style="height: auto;" />
+</p>
+    
 
 
 - **Dynamic Property Posting**:
