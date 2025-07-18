@@ -15,7 +15,7 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
   - Filter by **Price Range**
     
 <p align="center">
-  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752752352/Screenshot_2025-07-17_170822_horwug.png" alt="Admin Dashboard" width="600" style="margin-top: 10px; margin-bottom: 10px;" />
+  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752752352/Screenshot_2025-07-17_170822_horwug.png" alt="Admin Dashboard" width="300" style="margin-top: 10px; margin-bottom: 10px;" />
 </p>
 
 - **Dynamic Property Posting**:
