@@ -14,9 +14,13 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
   - Filter by **Property Type/Subtype**
   - Filter by **Price Range**
     
-<p align="center">
-  <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752752352/Screenshot_2025-07-17_170822_horwug.png" alt="Admin Dashboard" width="300" style="margin-top: 10px; margin-bottom: 10px;" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://res.cloudinary.com/dfojntght/image/upload/v1752752352/Screenshot_2025-07-17_170822_horwug.png" alt="Admin Dashboard" width="300" height="200" /></td>
+    <td><img src="https://res.cloudinary.com/dfojntght/image/upload/v1752752352/Screenshot_2025-07-17_170822_horwug.png" alt="Admin Dashboard" width="300" height="200" /></td>
+    <td><img src="https://res.cloudinary.com/dfojntght/image/upload/v1752752352/Screenshot_2025-07-17_170822_horwug.png" alt="Admin Dashboard" width="300" height="200" /></td>
+  </tr>
+</table>
 
 - **Dynamic Property Posting**:
   - Add detailed property info including:
