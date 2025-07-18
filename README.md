@@ -17,21 +17,21 @@ A modern, full-stack real estate web platform that allows users to **buy, sell, 
 <table>
   <tr>
     <td>
-      <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752752352/Screenshot_2025-07-17_170822_horwug.png" 
+      <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752829394/Screenshot_2025-07-18_143155_ayypl4.png" 
            alt="Admin Dashboard" 
            width="320" 
            height="220" 
            style="margin-right: 00px;" />
     </td>
     <td>
-      <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752752352/Screenshot_2025-07-17_170822_horwug.png" 
+      <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752829394/Screenshot_2025-07-18_143216_m2rs9h.png" 
            alt="Admin Dashboard" 
            width="320" 
            height="220" 
            style="margin-right: 00px;" />
     </td>
     <td>
-      <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752752352/Screenshot_2025-07-17_170822_horwug.png" 
+      <img src="https://res.cloudinary.com/dfojntght/image/upload/v1752829403/Screenshot_2025-07-18_143240_epl2ti.png" 
            alt="Admin Dashboard" 
            width="320" 
            height="220" />
